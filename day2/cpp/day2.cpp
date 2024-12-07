@@ -33,6 +33,7 @@ int main() {
         // int safe2 = 1;
         int life = 2;
 
+        // Part 1
         // while (lineStream >> value) {
         //     if (prevVal == -1) {
         //         prevVal = value; // Initialize prevVal
@@ -73,6 +74,8 @@ int main() {
         // if (safe == 1) {
         //     part1 ++;
         // }
+
+        // Gave up using cpp
         while (lineStream >> value) {
             // Handle the first value
             if (prevVal == -1) {
